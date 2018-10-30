@@ -41,6 +41,7 @@ Thumbs.db
 .classpath
 .project
 .settings/
+.recommenders/
 .metadata/
 target/
 */target/*
