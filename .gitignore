@@ -46,3 +46,6 @@ Thumbs.db
 target/
 */target/*
 */target/**
+Servers/
+*/Servers/*
+*/Servers/**
