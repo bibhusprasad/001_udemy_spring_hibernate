@@ -1,0 +1,18 @@
+{
+	"id": 82,
+	"firstName": "bibhu",
+	"lastName": "samal",
+	"active": true,
+	"address": {
+		"street": "jaleswarpur",
+		"city": "cuttack",
+		"state": "odisha",
+		"zip": "754204",
+		"country": "india"
+	},
+	"languages": [
+		"java",
+		"c",
+		"sql"
+	]
+}
